@@ -1,0 +1,22 @@
+THANKS FOR DOWNLOADING MY MODS
+
+
+Install made for : Tesla Model S
+
+
+
+Step 1 : 
+
+		* Go to : go to gta5 / mods / update / update.rpf / teslamodels_kpym / dlc.rpf / data
+		
+Step 2 : 
+
+		* Open Handling.meta
+		
+Step 3 : 
+
+		* Change value on this line : <fDeformationDamageMult value="0.700000" /> (Change value a big number = big damage)
+		
+Step 4 : 
+
+		* SAVE MODIFICATION

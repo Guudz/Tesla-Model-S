@@ -1,0 +1,26 @@
+THANKS FOR DOWNLOADING MY MODS
+
+
+Install made for : Tesla Model S
+
+
+Step 1 : 
+
+		* Go to : gta5 / mods / update / x64 / dlcpacks / teslamodels_kpym / dlc.rpf / data
+		
+Step 2 :
+	
+		* Edit this lines : <identicalModelSpawnDistance value="20" /> (DISTANCE VALUE FOR SAME CAR SPAWN)
+							<maxNumOfSameColor value="1" /> (NUMBER OF SAME COLOR AT SAME TIME)
+							<defaultBodyHealth value="1000.000000" /> (DON'T TOUCH!!)
+							<pretendOccupantsScale value="1.000000" /> (DON'T TOUCH!!)
+							<visibleSpawnDistScale value="1.000000" /> (DON'T TOUCH!!)
+							<trackerPathWidth value="2.000000" /> (DON'T TOUCH!!)
+							<weaponForceMult value="1.000000" /> (DON'T TOUCH!!)
+							<frequency value="10" /> (FREQUENCY OF SPAWN "MAX 100" EX: 10 = 10% OF THE TIME SO RARE CAR)
+							<swankness>SWANKNESS_5</swankness> (RAREST OF CAR (CAN GO TO 1 AT 5))
+							<maxNum value="5" /> (MAXIMUM NUMBER OF THE SAME CAR AT SAME TIME)
+							
+Step 3 :
+
+		* SAVE MODIFICATION

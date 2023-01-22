@@ -1,0 +1,22 @@
+THANKS FOR DOWNLOADING MY MODS
+
+
+Install made for : Tesla Model S
+
+
+
+Step 1 :
+		
+		* Download any popgroup.ymt on internet
+		
+Step 2 :
+
+		* Go to : gta5 / mods / update.rpf / x64 / levels / gta5
+		
+Step 3 : 
+
+		* Add a line above "<Name>VEH_MED</Name>" and paste this : <Item><Name>teslamodels</Name><Variations type="NULL"/></Item>
+		
+Step 4 : 
+
+		* SAVE MODIFICATION

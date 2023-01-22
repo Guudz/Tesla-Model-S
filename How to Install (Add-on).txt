@@ -1,0 +1,56 @@
+THANKS FOR DOWNLOADING MY MODS
+
+
+Install made for ADDON VERSION of : Tesla Model S
+
+
+Step 1 : 
+
+		* Activate "Edit Mode"
+		
+Step 2 :
+
+		* Go to : gta5 / mods / update / x64 / dlcpacks
+		
+Step 3 : 
+
+		* Create New Folder : Right Click -> New -> Folder 
+		
+		* Name it :"teslamodels_kpym" (Without ")
+		
+Step 4 :
+
+		* Open this folder and just add "dlc.rpf" from my archive
+		
+Step 5 : 
+
+		* Go to : gta5 / mods / update / update.rpf / common / data
+		
+Step 6 :
+
+		* Open "dlclist.xml" file
+		
+Step 7 :
+
+		* Add a line above "</Paths>" and paste this : <Item>dlcpacks:\teslamodels_kpym\</Item>
+		
+		* SAVE your modification
+		
+		
+Now it's done car is install in your game in Add-on (No replace any game car)
+
+
+Spawn the car in game : 
+
+		* Use any trainer for spawn this car (Menyoo, Simple Trainer ...) 
+		
+		* Spawn name is : teslamodels
+		
+		
+HAVE FUN WITH THIS MODS
+                
+
+
+
+
+
